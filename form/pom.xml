@@ -83,7 +83,7 @@
           <subscriptionId>16cfc856-c2f1-4103-80c3-8deba1743963</subscriptionId>  
           <resourceGroup>rg_trainee_11</resourceGroup>  
           <appName>aztrainee11</appName>  
-          <pricingTier>P1v2</pricingTier>  
+          <pricingTier>S1</pricingTier>  
           <region>westeurope</region>  
           <appServicePlanName>aztrainee11webplan</appServicePlanName>  
           <appServicePlanResourceGroup>rg_trainee_11</appServicePlanResourceGroup>  
